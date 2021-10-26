@@ -14,4 +14,8 @@ Use the [Issue Tab](https://github.com/BinaryPaw/BinaryPaw/issues) here on GitHu
 <br><br>
 
 ## Support
-Do you need any sort of support related to our services and products? Feel free to visit our [support section](https://binarypaw.com/) on our website.
+Do you need any sort of support related to our services and products?
+Feel free to visit our support channels as listed below:
+- [Website](https://binarypaw.com/)
+- [Discord](https://discord.gg/C3nKfq9d7c)
+- [Twitter](https://twitter.com/Binary_Paw)
